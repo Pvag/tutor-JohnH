@@ -1,0 +1,9 @@
+TODO
+====
+
+1. implement Newton-Raphson algorithm
+2.
+
+
+ERRATA
+======
