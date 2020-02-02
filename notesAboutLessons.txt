@@ -2,7 +2,9 @@ TODO
 ====
 
 1. implement Newton-Raphson algorithm
-2.
+2. refactor JH008_bouncingBall using functions
+3. NEXT sketch will be based upon this, but with 20 balls (we'll need arrays)
+4. NEXT NEXT sketch will have 20 balls, but will use objects
 
 
 ERRATA
